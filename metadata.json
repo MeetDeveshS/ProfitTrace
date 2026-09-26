@@ -1,0 +1,6 @@
+{
+  "name": "ProfitTrace",
+  "description": "Business profitability and decision intelligence platform to trace where money is made and where it leaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
